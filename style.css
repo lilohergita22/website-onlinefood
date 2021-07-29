@@ -1,0 +1,41 @@
+html {
+	scroll-behavior: smooth;
+}
+
+
+.konten1 {
+/*	background-color: yellow;*/
+	background-image: url(img/j1.jpg);
+	background-size: cover;
+	height: 600px;
+}
+
+hr {
+	width: 100px;
+	border-top: 3px solid #eaeaea;
+}
+
+.hero1 {
+	color: orange;
+}
+
+.hero2 {
+	color: #fff;
+}
+
+.konten2 {
+/*	background-color: green;*/
+	margin-top: 90px;
+	background-image: url(img/j2.jpg);
+	background-size: cover;
+	height: 650px;
+}
+
+.konten3 {
+	background-color: #fff;
+}
+
+.konten3 {
+	background-color: #ff;
+}
+
